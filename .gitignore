@@ -1,4 +1,4 @@
-# svn
+##svn
 .svn
 
 .vs
@@ -45,7 +45,7 @@ Content/Integration/DirectX11/Tutorial05/x64
 Content/Integration/DirectX11/Tutorial05/Debug
 Content/Integration/DirectX11/Tutorial05/Release
 Content/Integration/DirectX11/Tutorial05/Profile
-Content/Integration/OpenGL/Visual Studio/_temp
+Content/Integration/OpenGL/Visual!Studio/_temp
 Content/Integration/OpenGL/Visual Studio/Debug
 Content/Integration/OpenGL/Visual Studio/Release
 Content/Integration/OpenGL/XCode/Release
@@ -474,3 +474,4 @@ Samples/WorldSpaceUI/UE5/Assets/**/obj/
 Samples/WorldSpaceUI/UE5/Content/Collections
 Samples/WorldSpaceUI/UE5/Content/Developers
 !Samples/WorldSpaceUI/UE5/Source/
+ 
